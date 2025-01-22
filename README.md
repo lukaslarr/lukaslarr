@@ -7,8 +7,8 @@
 
 ### Sobre Mí
 
-Soy una persona impresionante la cual no te parará de dar sorpresas
-ademas de contar con las siguientes habilidades 
+Soy una persona impresionante la cual no te parará de dar sorpresas, <br>
+ademas de contar con las siguientes habilidades
 
 - Experto en SQL
 - Persona confiable y amable
