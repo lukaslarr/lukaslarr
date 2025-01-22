@@ -7,7 +7,8 @@
 
 ### Sobre Mí
 
-Aquí va una breve descripción sobre ti o tu proyecto.
+Soy una persona impresionante la cual no te parará de dar sorpresas
+ademas de contar con las siguientes habilidades 
 
 - Experto en SQL
 - Persona confiable y amable
